@@ -1,6 +1,6 @@
 VERSION = $(shell ./scripts/version)
 
-REPO = longhornio
+REPO = r.awan.app/library/longhornio
 NAME = longhorn-ui
 INSTANCE = default
 LONHORN_MANAGER_IP = http://localhost:9500
